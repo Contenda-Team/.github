@@ -1,6 +1,6 @@
-<p align="center">
-  ![banner](https://github.com/Contenda-Team/.github/assets/34922645/932927df-1959-4dde-a408-1600ba623b80)
-  
+![banner](https://github.com/Contenda-Team/.github/assets/34922645/932927df-1959-4dde-a408-1600ba623b80)
+
+<p align="center">  
   <h2 align="center">Contenda</h2>  
     <p align="center">
     Scale your technical content marketing 📈
