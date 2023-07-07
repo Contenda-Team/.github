@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://contenda.co">
-    <img alt="Contenda: Upload original content. Create unlimited transformations." src="https://user-images.githubusercontent.com/1454517/216713208-3a64a057-e7b0-4aaa-bbc8-7a222d7fac73.png">
-  </a>
+  ![banner](https://github.com/Contenda-Team/.github/assets/34922645/932927df-1959-4dde-a408-1600ba623b80)
   
   <h2 align="center">Contenda</h2>  
     <p align="center">
