@@ -3,7 +3,7 @@
 <p align="center"> 
   <h2 align="center">Contenda</h2>  
     <p align="center">
-    Turn your expertise into content, **faster** 🏎️
+    Turn your expertise into content, <strong>faster</strong> 🏎️
     <br />
     <a href=https://contenda.co"><strong>Learn more »</strong></a>
     <br />
