@@ -1,9 +1,9 @@
-![banner](https://github.com/Contenda-Team/.github/assets/34922645/932927df-1959-4dde-a408-1600ba623b80)
+![generate authentically](https://github.com/Contenda-Team/.github/assets/1454517/e8c85cca-4b31-4930-8326-965ba49209d8)
 
-<p align="center">  
+<p align="center"> 
   <h2 align="center">Contenda</h2>  
     <p align="center">
-    Scale your technical content marketing 📈
+    Turn your expertise into content, **faster** 🏎️
     <br />
     <a href=https://contenda.co"><strong>Learn more »</strong></a>
     <br />
