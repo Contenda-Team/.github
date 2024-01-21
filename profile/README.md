@@ -5,7 +5,7 @@
     <p align="center">
     Turn your expertise into content, <strong>faster</strong> 🏎️
     <br />
-    <a href=https://contenda.co"><strong>Learn more »</strong></a>
+    <a href="https://contenda.co"><strong>Learn more »</strong></a>
     <br />
     <br />
     <a href="https://contenda.co/blog/">Blog</a>
